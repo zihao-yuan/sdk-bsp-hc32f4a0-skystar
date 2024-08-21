@@ -11,7 +11,7 @@ board:
   description_zh: 天空星HC32F4A0PITB开发板是由立创开发板精心打造的一款高性价比的开发工具，设计上充分考虑了与多种100脚封装的单片机的兼容性。这种设计使得它不仅适用于特定的芯片，还能够适配市场上多种不同厂家生产的100脚微控制器，极大地提高了适用范围和灵活性。本SDK支持天空星HC32F4A0PITB版本。
   emulator_machine: ''
   large_image: docs/images/board.jpg
-  name: HC32F4A0PITB-LCKFB-SKYSTAR
+  name: HC32F4-LCKFB-SKYSTAR
   price_cn: 39.9 CNY
   price_global: N/A USD
   sale_contact_cn: N/A
@@ -20,7 +20,7 @@ board:
   vendor: XHSC
   version: 1.0
 chip:
-  chip_name: HC32F4A0PITB
+  chip_name: hc32f4a0xi
   clock_source: HSE
   device_vendor: XHSC
   family_name: HC32
